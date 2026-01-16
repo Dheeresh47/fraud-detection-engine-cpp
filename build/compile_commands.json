@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Admin/Desktop/fraud_detection_dsa/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\Admin\\Desktop\\fraud_detection_dsa\\main.cpp",
+  "file": "C:/Users/Admin/Desktop/fraud_detection_dsa/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/Desktop/fraud_detection_dsa/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\main.dir\\fraud_engine.cpp.obj -c C:\\Users\\Admin\\Desktop\\fraud_detection_dsa\\fraud_engine.cpp",
+  "file": "C:/Users/Admin/Desktop/fraud_detection_dsa/fraud_engine.cpp",
+  "output": "CMakeFiles/main.dir/fraud_engine.cpp.obj"
+}
+]

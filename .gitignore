@@ -1,0 +1,9 @@
+# Compiled binary
+fraud
+
+# Generated ML training data
+training_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
