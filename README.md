@@ -49,13 +49,12 @@ banking fraud pipelines.
 
 ## System Architecture
 
-CSV Input → Feature Engineering → Rule Engine →  
-User Risk State → Decision Engine → ML Training Data (CSV)
+CSV Input → Feature Engineering → Rule Engine →  User Risk State → Decision Engine → ML Training Data (CSV)
 
 ---
 
 ## Project Structure
-
+```
 fraud-detection-engine/
 │
 ├── data/
@@ -66,7 +65,7 @@ fraud-detection-engine/
 ├── csv_reader.h / csv_reader.cpp
 ├── transaction.h
 └── README.md
-
+```
 ---
 
 ## How to run
